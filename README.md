@@ -12,10 +12,20 @@ A simple Blackjack game built in Unity using C#. You play against a computer dea
 
 ## 📸 Screenshot
 
-*(Insert a screenshot here)*  
-You can take a screenshot of the game, save it as `screenshot.png`, and place it in the root folder. Then uncomment this line:
+### Home Screen
+![Home Screen](screenshots/Blackjack Game - Home.png)
 
-<!-- ![Screenshot](screenshot.png) -->
+### Settings Pop-up
+![Settings Pop-up](screenshots/Blackjack Game - Settings.png)
+
+### Play Screen
+![Play Screen](screenshots/Blackjack Game - Play.png)
+
+### Mid-Hand
+![Mid-Hand](screenshots/Blackjack Game - Hand.png)
+
+### Hand Result
+![Hand Result](screenshots/Blackjack Game - Result.png)
 
 ## 🚀 How to Run
 
