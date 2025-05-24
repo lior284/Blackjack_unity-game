@@ -13,19 +13,19 @@ A simple Blackjack game built in Unity using C#. You play against a computer dea
 ## 📸 Screenshot
 
 ### Home Screen
-![Home Screen](screenshots/Blackjack%20Game%20-%20Home.png)
+![Home Screen](Screenshots/Blackjack%20Game%20-%20Home.png)
 
 ### Settings Pop-up
-![Settings Pop-up](screenshots/Blackjack%20Game%20-%20Settings.png)
+![Settings Pop-up](Screenshots/Blackjack%20Game%20-%20Settings.png)
 
 ### Play Screen
-![Play Screen](screenshots/Blackjack%20Game%20-%20Play.png)
+![Play Screen](Screenshots/Blackjack%20Game%20-%20Play.png)
 
 ### Mid-Hand
-![Mid-Hand](screenshots/Blackjack%20Game%20-%20Hand.png)
+![Mid-Hand](Screenshots/Blackjack%20Game%20-%20Hand.png)
 
 ### Hand Result
-![Hand Result](screenshots/Blackjack%20Game%20-%20Result.png)
+![Hand Result](Screenshots/Blackjack%20Game%20-%20Result.png)
 
 ## 🚀 How to Run
 
